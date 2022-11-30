@@ -1,5 +1,5 @@
 // vscode shortcut
-// 1. C + B	            left side bar
+// 1. C + B	            close/open left side bar
 // 2. C + `	            Built in terminal
 // 3. C + ,	            Setting
 // 4. C + P	            Open file
@@ -13,7 +13,7 @@
 // 12.A + Arrow	        Navigating Text faster
 // 13.C+ C/V/X	        copy,paste,cut (no need to select whole line in vscode)
 // 14.S+A+UP/Down	    Duplicate line
-// 15.A + Click	        Multile Cursors
+// 15.A + Click	        Multiple line click Cursors
 // 16.C + D	            Select Word
 // 17.C+S+L	            Select all instances of a word(Select all same words in the sheet)
 // 18.F2		        Rename symbol
@@ -24,3 +24,8 @@
 // 23.W+UpDown/LR       minimize/maximize open file
 // 24.A + Tab	        tab through open software
 // 25.S + Tab	        once step backward of tab move
+// 26.C+S+E             explorer
+// 27.C+S+G             source control
+// 28.C+S+D             Debug
+// 29.C+S+X             Extention
+// 30.A+Up/Down         move the line up/down
