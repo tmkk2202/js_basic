@@ -1,0 +1,7 @@
+p {
+    color : orange;
+    font-size : 30px;
+    text-shadow: 30cm;
+    text-overflow: ellipsis;
+    text-align: justify;
+}

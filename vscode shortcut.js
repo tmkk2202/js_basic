@@ -3,7 +3,7 @@
 // 2. C + `	            Built in terminal
 // 3. C + ,	            Setting
 // 4. C + P	            Open file
-// 5. C + Tab	        Tab through open file
+// 5. C + Tab	        X Tab through open file
 // 6. C + \	            Split editor
 // 7. C + W	            Close open file
 // 8. C + F	            Search/Replace in file
