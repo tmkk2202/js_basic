@@ -1,115 +1,105 @@
-@media (max-width: 800px) {
-  .mother {
-    display: none;
-  }
-}
-
-
-.mother {
-max-width: 700px;
+.main {
+max-width: 800px;
 margin: 0 auto;
 }
 
-.menu {
-  background-color: beige;
+.top {
+  
   display: flex;
   flex-direction: row;
-  justify-content:space-between;
-   
-  }
-
-.logocontainer {
-width: 50px;
-height: 50px;
+  justify-content: space-between;
 }
 
 .logo {
-width: 100%;
-border-radius: 20px;
-
-}
-
-.menucontainer {
-
+  width: 40px;
+  height: 40px;
 }
 
 .menuitem {
-text-decoration: none;
-margin-right: 10px;
-color: inherit;
-color: brown;
-
+  color: blueviolet;
+  font-size: 20px;
+  margin-right: 10px;
+  text-decoration: none;
 }
 
 .menuitem:hover {
-text-decoration: underline;
-color: blueviolet;
-
-
+  text-decoration: underline;
+  color: green;
 }
 
-.container {
-
+.middle {
+  background-color: bisque;
 }
 
 .left {
 
-display: inline-block;
-width:40% ;
+  display: inline-block;
+  width: 300px;
+  
+}
 
+.header {
+  margin-bottom: 30px;
+}
+
+.blkitems {
+  margin-top: 10px;
+  border: none;
+  background-color: lightsalmon;
+  width: 230px;
+  height: 20px;
+  border-radius: 10px;
+  padding: 4px;
+  font-size: 14px;
+ 
+
+}
+
+::placeholder {
+  color: blue;
+}
+
+.signIn {
+  margin-bottom: 10px;
+  border-radius: 20px;
+  padding: 3px;
+  width: 70px;
+  height: 30px;
+  color: darkgreen
+}
+
+.forgetPw {
+ margin-top: 10px;
+ color: white;
+}
+
+.appStore {
+  width: 100px;
+  height: 40px;
+  display: block;
+  margin: 10px 0px;
+}
+
+.googlePlay {
+  width: 100px;
+  height: 40px;
+  display: block;
+  margin: 10px 0px;
 }
 
 .right {
 
-display: inline-block;
-width: 50%;
-
+  display: inline-block;
+  width: 400px;
 }
+
+.rightimg {
+  width: 100%;
+  
+}
+
 .bottom {
- padding: 20px;
- border: 10px solid yellow;
- margin: 40px 100px;
- text-align: center;
-}
-
-.appstore{
-width: 120px;
-height: 50px;
-}
-
-.googleplay {
-width: 120px;
-height: 50px;
-}
-
-.rightimg{
-width: 400px;
-}
-
-.blkelement{
-display: block;
-margin-top: 10px;
-margin-bottom: 10px;
-background-color: lightseagreen;
-border: none;
-border-radius: 20px;
-width: 250px;
-height: 30px;
-padding-left: 15px;
-padding-right: 15px;
-font-size: 15px;
-}
-
-.signin{
-border-radius: 30px;
-background-color: lightgreen;
-margin: 10px 10px;
-color: darkblue;
-padding: 5px 20px 5px;
-font-size: 15px;
-width: 100px;
-}
-
-.chkboxspan {
-margin-bottom: 20px;
+  text-align: center;
+  color: brown;
+  font-size: large;
 }
