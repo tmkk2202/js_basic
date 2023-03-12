@@ -1,0 +1,55 @@
+.ancestor {
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+}
+
+.parent {
+    width: 800px;
+    height: 1000px;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 0 auto;
+      
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    margin: 0 auto;
+}
+
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 0 auto;
+}
+
+.box4 {
+    width: 100px;
+    height: 200px;
+    background-color: yellow;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+    background-color: lightcoral;
+}
+
+.input {
+    width: 400px;
+}
